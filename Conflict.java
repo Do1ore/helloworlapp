@@ -1,2 +1,2 @@
-public record Conflict(String name) {
+public record Conflict(int id) {
 }
