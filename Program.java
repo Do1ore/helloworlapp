@@ -7,4 +7,8 @@ public class Program {
         System.out.println("Hello " + MESSAGE);
         System.out.println("New message:  " + MESSAGE_FROM_DEVELOP_BRANCH);
     }
+
+    public void feature(){
+
+    }
 }
