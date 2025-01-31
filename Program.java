@@ -6,5 +6,6 @@ public class Program {
     public static void main(String[] args) {
         System.out.println("Hello " + MESSAGE);
         System.out.println("New message:  " + MESSAGE_FROM_DEVELOP_BRANCH);
+        System.out.println("New message:  " + MESSAGE_FROM_DEVELOP_BRANCH + MESSAGE_FROM_DEVELOP_BRANCH);
     }
 }
