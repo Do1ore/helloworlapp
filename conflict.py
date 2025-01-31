@@ -1,4 +1,5 @@
+a = 1 + 2
+print(a)
 print('var1')
-print('update')
-print('vlads version')
+
 
